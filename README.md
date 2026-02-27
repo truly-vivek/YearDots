@@ -13,7 +13,7 @@ YearDots is a minimalist live wallpaper that helps you track your yearly progres
 - No data collection
 
 ## Developer
-Freak Codes
+Vivek/Freak Codes
 
 ## Privacy Policy
 https://truly-vivek.github.io/yeardots/privacy-policy.html
